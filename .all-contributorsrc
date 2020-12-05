@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "LeoMajorR",
+      "name": "Ravi Prakash Singh",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/35331954?v=4",
+      "profile": "https://github.com/LeoMajorR",
+      "contributions": [
+        "video"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "InfoSec",
+  "projectOwner": "LeoMajorR",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
